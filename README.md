@@ -37,7 +37,7 @@ achieve the location of the devices, etc.
 </td>
 <td style="text-align: center;">
 <p style="text-align: center;"><strong>Fake_Wifi <br/> </strong></p>
-<p> <img src="https://github.com/ronleib/Attacking_a_computer_using_the_esp8266_component/blob/main/PICTURES/Fake_Wifi.gif" width="250" height="500"> </p>
+<p> <img src="https://github.com/ronleib/Attacking_a_computer_using_the_esp8266_component/blob/main/PICTURES/Fake_Wifi.gif" width="350" height="500"> </p>
 </td>
 </tbody>
 </table>
