@@ -26,15 +26,17 @@ achieve the location of the devices, etc.
 - Arduino software for writing code on the component.
 - Wireshark software for controlling the data.
 
+## Photos from the component end pley:
+
 <table cellspacing="10">
 <tbody>
 <tr>
 <td style="text-align: center;">
-<p style="text-align: center;"><strong> ESP8266 component <br/> (Only a manager can do that)</strong></p>
+<p style="text-align: center;"><strong> ESP8266 component <br/> </strong></p>
 <p> <img src="https://github.com/ronleib/Attacking_a_computer_using_the_esp8266_component/blob/main/PICTURES/ESP8266.jpeg" width="400px" height="200px" /></p>
 </td>
 <td style="text-align: center;">
-<p style="text-align: center;"><strong>Fake_Wifi <br/> and get in their profile</strong></p>
+<p style="text-align: center;"><strong>Fake_Wifi <br/> </strong></p>
 <p> <img src="https://github.com/ronleib/Attacking_a_computer_using_the_esp8266_component/blob/main/PICTURES/Fake_Wifi.gif" width="250" height="500"> </p>
 </td>
 </tbody>
