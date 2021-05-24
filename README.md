@@ -41,3 +41,8 @@ achieve the location of the devices, etc.
 </td>
 </tbody>
 </table>
+
+## Technology:
+
+<img src="https://github.com/ronleib/Attacking_a_computer_using_the_esp8266_component/blob/main/PICTURES/Arduino.png" width="250" > <img src="https://github.com/ronleib/Attacking_a_computer_using_the_esp8266_component/blob/main/PICTURES/WiresharkK.png" width="250"> <img src="https://github.com/ronleib/Attacking_a_computer_using_the_esp8266_component/blob/main/PICTURES/ESP8266.png" width="250" height="200"> 
+
